@@ -1,0 +1,6 @@
+Задачи:
+
+[V] Поднять Apache Kafka в Docker Compose и создать топик
+[V] Написать свой API Controller на Python с Kafka Producer, чтобы через Postman можно было посылать запросы и кидать сообщения в Kafka (формат данных выбираете сами)
+[V] С помощью Spark-Streaming подключиться к Kafka и доставать из топика данные и писать их в Parquet
+[V] Из Parquet визуализировать данные через df.show()
